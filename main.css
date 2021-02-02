@@ -37,7 +37,7 @@ h1{
 /*--- header ---*/
 
 .header {
-	background-image: url('/images/apple-laptop-500x500.jpg');
+	background-image: url('images/apple-laptop-500x500.jpg');
 	background-size: cover;
 	background-position: center;
 	position: relative;
